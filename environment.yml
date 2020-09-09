@@ -4,5 +4,5 @@ channels:
 dependencies:
   - numpy
   - matplotlib
-  - cv2
+  - opencv-python
   - ipywidgets
